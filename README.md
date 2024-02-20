@@ -39,5 +39,5 @@ Contributions to this project are welcome. Please ensure to follow the best prac
 
 ## License
 
-Specify your project's license here, commonly MIT or Apache 2.0 for open-source projects.
+MIT 
 
